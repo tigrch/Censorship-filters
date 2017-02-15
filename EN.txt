@@ -1,3 +1,12 @@
+<!--
+     * A list of banned, offensive or abusive roots: with exeptions array for the valid words, where
+     * the first symbol is instructive:
+     *        < - proceding symbols shouldn't contain ...
+     *        > following symbols shouldn't contain ...
+     *        * - the root matches the whole word
+     * null - no exeptions for this root
+     -->
+
 'anal ' : ['<cime' , '<cimes' , '<cite' , '<cites' , '<ecta', '<ects', '<emma' , '<emmas' , '<emmata' , '<emmatic' , '<eptic' , '<eptics' , '<gesia' , '<gesias' , '<gesic' , '<gesics' , '<getic' , '<getics' , '<gia' , '<gias', '<og' , '<ogic' , '<ogical' , '<ogically' , '<ogies' , '<ogist' , '<ogists' , '<ogize' , '<ogized' , '<ogizes' , '<ogizing' , '<ogous' , '<ogously' , '<ogousness' , '<ogousnesses' , '<ogs' , '<ogue' , '<ogues' , '<ogy' , '<ysand' , '<ysands' , '<yse' , '<ysed' , '<yser' , '<ysers' , '<yses' , '<ysing' , '<ysis' , '<yst' , '<ysts' , '<ytic' , '<ytical' , '<ytically' , '<yticities' , '<yticity' , '<ytics' , '<yzabilities' , '<yzability' , '<yzable' , '<yzation' , '<yzations' , '<yze' , '<yzed' , '<yzer' , '<yzers' , '<yzes' , '<yzing']
 'anilingus' : ['*']
 'anus' : ['<cript']
